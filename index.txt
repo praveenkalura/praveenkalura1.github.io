@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Praveen Kalura
+Praveen Kalura
+Research Scholar
 
 Show Contacts
 
 Email
-richard@example.com
+praveenkalura@gmail.com
 
 Phone
-+1 (213) 352-2795
++91 9627988707
 
 Birthday
-June 23, 1982
+February 7, 1990
 
 Location
-Sacramento, California, USA
+Roorkee, Uttrakhand, India
 
 # navbar
 
@@ -94,16 +94,16 @@ Resume
 Education
 
 University school of the arts
-2007 — 2008
+2019 — Present
 Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
 
 New york academy of art
-2006 — 2007
+2014 — 2016
 Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
 
 High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+2008 — 2012
+Bachelor of Technology, Graphic Era University, dehradun, uttarakhand, India.
 
 Experience
 
